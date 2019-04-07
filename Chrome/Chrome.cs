@@ -91,7 +91,7 @@ namespace Zeroit.Framework.LineSeparators
         {
 
             
-            //G.Clear(BackColor);
+            G.Clear(BackColor);
         }
 
 
